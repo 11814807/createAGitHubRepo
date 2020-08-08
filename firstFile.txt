@@ -3,3 +3,7 @@ This is my first ever git hub file created.
 This is my first edit to this file after creation.
 
 Thank you :-)
+
+Added from Visual studio code
+
+Second add from VS Code
